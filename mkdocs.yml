@@ -1,0 +1,13 @@
+site_name: IT Documentation
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+
